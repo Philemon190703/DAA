@@ -1,0 +1,12 @@
+Algoritma:
+
+Step 1 jika variabel A ingin ditukar dengan B buatlah variabel kosong C
+Step 2 tukar variabel A dengan C sehingga variabel A kosong
+Step 3 masukan value B ke A sehingga variabel B kosong
+Step 4 masukan value C ke B sehingga variabel C kosong
+
+Define swap (pA, pB)
+
+pC = pB
+pB = pA
+pC = pA
